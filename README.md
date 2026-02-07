@@ -78,7 +78,7 @@ Access the dashboard at: http://127.0.0.1:8055/
 - **Export Functionality**: Save captured packets to PCAP
 - **Protocol Filtering**: Focus on specific protocols
 
-## 🧠 What It’s Analyzing (Plain English)
+## 🧠 What It’s Analyzing 
 
 The app captures live network packets from your machine’s network interface and analyzes each packet in two ways:
 
